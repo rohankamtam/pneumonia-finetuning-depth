@@ -53,7 +53,7 @@ Or open it directly in [Google Colab](https://colab.research.google.com/).
 
 | Name | Department |
 |------|------------|
-| Ch. Bala Subramanyam | (Guide)CSE |
+| Ch. Bala Subramanyam (Guide) | CSE |
 | Rohan Kamtam | CSE |
 | Kamalesh Choudhary | CSE |
 | G. Pavan | CSE |
