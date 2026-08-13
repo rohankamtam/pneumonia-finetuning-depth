@@ -53,10 +53,11 @@ Or open it directly in [Google Colab](https://colab.research.google.com/).
 
 | Name | Department |
 |------|------------|
+| Ch. Bala Subramanyam | (Guide)CSE |
 | Rohan Kamtam | CSE |
 | Kamalesh Choudhary | CSE |
 | G. Pavan | CSE |
-| Ch. Bala Subramanyam | CSE |
+
 
 Dept. of Computer Science and Engineering, Vardhaman College of Engineering, Hyderabad, India.
 
